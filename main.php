@@ -10,3 +10,16 @@ function subtrair( $a , $b){
     
 }
 echo "resultado ", subtrair ( 10 , 5 );
+ 
+    
+ function dividir($a , $b){
+    return $a / $b;
+ }
+
+ echo "Resultado: ", Dividir(10,5);
+
+function Multiplicar( $a , $b){
+    return $a * $b;
+    
+}
+echo "resultado ", Multiplicar( 10 , 5 );
